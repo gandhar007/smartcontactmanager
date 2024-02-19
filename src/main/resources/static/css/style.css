@@ -17,4 +17,5 @@ body {
 .my-card {
     padding: 20px;
     background: #FFFF;
+    border-radius: 6px;
 }
